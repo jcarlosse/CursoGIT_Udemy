@@ -4,6 +4,6 @@ asdasdasdasd
 asd	
 HEAD
 Cambio 5 de Julio
-
 Estos cambios son hechos sin hacer cambios en la rama master
+Cambios desde el Branch JuanCarlos1
 
