@@ -4,4 +4,6 @@ asdasdasdasd
 asd	
 HEAD
 Cambio 5 de Julio
-cambio 
+
+Estos cambios son hechos sin hacer cambios en la rama master
+
