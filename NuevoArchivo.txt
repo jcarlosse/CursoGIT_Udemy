@@ -4,4 +4,7 @@ Cambio en NuevoArchivo.txt
 linea4
 Linea 5 supuestamente para conflict. agrego linea nuevoBranch
 
-linea 1.1.3
+linea 1.ss
+
+agrego lineas y hago push con otro alias
+
