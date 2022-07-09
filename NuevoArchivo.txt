@@ -1,3 +1,5 @@
 Este archivo es nuevo
-
+linea2
 Cambio en NuevoArchivo.txt 
+linea4
+Linea 5 supuestamente para conflict
